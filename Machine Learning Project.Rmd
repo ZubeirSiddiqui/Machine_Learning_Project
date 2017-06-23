@@ -2,7 +2,7 @@
 title: "Machine Learning Project - Prediction Assignment"
 author: "Zubeir Siddiqui"
 date: "June 22, 2017"
-output: html_document
+output: word_document
 ---
 
 ```{r setup, include=FALSE}
